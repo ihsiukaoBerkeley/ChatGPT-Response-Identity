@@ -62,7 +62,11 @@ Future studies should explore other measures of bias, different language models,
 ### References
 
 Deshpande, A., et al. (2023). Toxicity in CHATGPT: Analyzing persona-assigned language models. Findings of the Association for Computational Linguistics: EMNLP 2023.
+
 Motoki, F., et al. (2023). More human than human: Measuring chatgpt political bias. Public Choice, 198(1–2), 3–23.
+
 Bird, S., et al. (2023). Natural Language Toolkit (NLTK) Documentation.
+
 Ouyang, L., et al. (2022). Training language models to follow instructions with human feedback. ArXiv, abs/2203.02155.
+
 Dale, E., & Chall, J. S. (1948). A formula for predicting readability: Instructions. Educational Research Bulletin, 27(2), 37-54.
